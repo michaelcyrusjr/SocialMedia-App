@@ -57,8 +57,7 @@ Star⭐ the repo if you like what you see😉.
 
 #### 3. Setup the firebase app
 
-- You'll need to create a Firebase instance. Follow the instructions
-  at https://console.firebase.google.com.
+- You'll need to create a Firebase instance. Follow the instructions at https://console.firebase.google.com.
 - Once your Firebase instance is created, you'll need to enable Google authentication.
 
 * Go to the Firebase Console for your new instance.
