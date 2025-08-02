@@ -60,7 +60,7 @@ Star⭐ the repo if you like what you see😉.
 - You'll need to create a Firebase instance. Follow the instructions 
 
   at https://console.firebase.google.com.
-  
+
 - Once your Firebase instance is created, you'll need to enable Google authentication.
 
 * Go to the Firebase Console for your new instance.
@@ -110,5 +110,9 @@ Double check install instructions for both
 
 **Charly Keleb
 CharlyKeleb** [![Twitter Follow](https://img.shields.io/twitter/follow/Charlykeleb.svg?style=social)](https://twitter.com/Charlykeleb)
+
+Adding just for fun
+
+No I am not done
 
 Making changes making changes making changes
